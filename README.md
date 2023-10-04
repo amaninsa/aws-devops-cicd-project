@@ -1,1 +1,1 @@
-# aws-devops-cicd-project
+# Sample Application for AWS DevOps Course
